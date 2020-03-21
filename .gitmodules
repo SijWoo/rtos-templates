@@ -1,0 +1,6 @@
+[submodule "micrium-os-base"]
+	path = micrium-os-base
+	url = https://github.com/SijWoo/micrium-os-base.git
+[submodule "freertos-base"]
+	path = freertos-base
+	url = https://github.com/SijWoo/freertos-base.git
