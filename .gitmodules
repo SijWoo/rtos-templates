@@ -4,3 +4,9 @@
 [submodule "freertos-base"]
 	path = freertos-base
 	url = https://github.com/SijWoo/freertos-base.git
+[submodule "micrium-fs-base"]
+	path = micrium-fs-base
+	url = https://github.com/SijWoo/micrium-fs-base.git
+[submodule "micrium-usb-drivers"]
+	path = micrium-usb-drivers
+	url = https://github.com/SijWoo/micrium-usb-drivers.git
